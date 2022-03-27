@@ -1,0 +1,123 @@
+﻿  Candy.cpp
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Candy.cpp(29,39): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Candy.cpp(29,36): warning C4244: 'argument' : conversion de 'int' en 'T', perte possible de données
+          with
+          [
+              T=float
+          ]
+  Game.cpp
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Game.cpp(87,37): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Game.cpp(87,27): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Game.cpp(90,40): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Game.cpp(90,30): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+  Grill.cpp
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Grill.cpp(625,57): error C2664: 'Candy::Candy(int,int,char,char,bool,bool)' : impossible de convertir l'argument 1 de 'Candy' en 'int'
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Grill.cpp(625,16): message : Aucun opérateur de conversion définie par l'utilisateur disponible qui puisse effectuer cette conversion, ou l'opérateur ne peut pas être appelé
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Candy.h(19,2): message : voir la déclaration de 'Candy::Candy'
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Grill.cpp(629,58): error C2664: 'Candy::Candy(int,int,char,char,bool,bool)' : impossible de convertir l'argument 1 de 'Candy' en 'int'
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Grill.cpp(629,16): message : Aucun opérateur de conversion définie par l'utilisateur disponible qui puisse effectuer cette conversion, ou l'opérateur ne peut pas être appelé
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Candy.h(19,2): message : voir la déclaration de 'Candy::Candy'
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Grill.cpp(677,42): error C2664: 'Candy::Candy(int,int,char,char,bool,bool)' : impossible de convertir l'argument 1 de 'Candy' en 'int'
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Grill.cpp(677,15): message : Aucun opérateur de conversion définie par l'utilisateur disponible qui puisse effectuer cette conversion, ou l'opérateur ne peut pas être appelé
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Candy.h(19,2): message : voir la déclaration de 'Candy::Candy'
+  Main.cpp
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(91,37): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(91,29): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(100,37): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(100,29): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(109,37): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(109,29): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(141,31): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(155,27): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(158,28): warning C4305: 'argument' : troncation de 'double' à 'float'
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(217,37): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(217,29): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(342,66): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(342,59): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(343,66): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(343,59): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(349,67): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(349,59): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(367,60): warning C4305: 'argument' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(381,62): warning C4305: 'argument' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
+D:\projet de faculte\Candy-Crush-C-SFML-main1\Candy-Crush-C-SFML-main\Code\candy\Main.cpp(394,60): warning C4305: 'argument' : troncation de 'double' à 'T'
+          with
+          [
+              T=float
+          ]
